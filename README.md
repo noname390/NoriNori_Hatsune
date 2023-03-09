@@ -9,6 +9,8 @@
 https://twitter.com/rituakaPAKOPAKO/status/1590670781117530112<br>
 ノリノリひとり:<br>
 https://www.nicovideo.jp/watch/sm41378642<br>
+## 许可协议
+使用CC0 1.0协议。详细可阅读“LICENSE”文件了解。
 # 配置制作环境
 如果你想参与这个视频项目的制作，请按照下面的内容进行操作。
 ## 工作环境
